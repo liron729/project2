@@ -5,6 +5,32 @@ if (session_status() === PHP_SESSION_NONE) {
 
 include_once(__DIR__ . '/../config/config.php');
 ?>
+<style>
+/* nav {
+    background-color: #333;
+    padding: 10px 0;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+nav ul li {
+    margin: 0 15px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+} */
+    
+
+</style>
 
 <nav>
   <ul>
